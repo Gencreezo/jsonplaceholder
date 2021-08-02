@@ -1,5 +1,12 @@
 # nuxt-json-placeholder-example
 
+This little Projects presents how I like to develope my projects.
+I like to use the Nuxt Framework to organize and build efficiently.
+I like to use Vuetify because it makes it easy to let Websites look pretty.
+I like to use Vuex/Nuxt Store to handle data.
+
+The rest of the Readme is generated.
+
 ## Build Setup
 
 ```bash
