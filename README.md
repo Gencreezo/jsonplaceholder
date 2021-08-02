@@ -6,7 +6,9 @@ I like to use Vuetify because it makes it easy to let Websites look pretty.
 I like to use Vuex/Nuxt Store to handle data.
 
 The most interesting Files to look at are:
-The two components Posts and PostCreate
+
+The two components Posts and PostCreate.
+
 All Files in the Store
 
 The rest of the Readme is generated.
