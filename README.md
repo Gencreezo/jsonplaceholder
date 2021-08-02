@@ -1,13 +1,13 @@
 # nuxt-json-placeholder-example
 
 This little Projects presents how I like to develope my projects.
-*I like to use the Nuxt Framework to organize and build efficiently.
-*I like to use Vuetify because it makes it easy to let Websites look pretty.
-*I like to use Vuex/Nuxt Store to handle data.
+* I like to use the Nuxt Framework to organize and build efficiently.
+* I like to use Vuetify because it makes it easy to let Websites look pretty.
+* I like to use Vuex/Nuxt Store to handle data.
 
 The most interesting files to look at are:
-*The two components Posts and PostCreate.
-*All Files in the Store.
+* The two components Posts and PostCreate.
+* All Files in the Store.
 
 The rest of the Readme is generated.
 
